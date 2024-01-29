@@ -1,0 +1,15 @@
+a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 21rem;
+  height: 3rem;
+  color: #000;
+  background-color: #FF9000;
+  text-decoration: none;
+  border-radius: 0.6rem;
+  font-family: "Roboto Slab";
+font-size: 1rem;
+font-style: normal;
+font-weight: 500; 
+}

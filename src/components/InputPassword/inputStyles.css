@@ -1,0 +1,23 @@
+.InputArea {
+  display: flex;
+  background-color: #232129;
+  align-items: center;
+  width: 21rem;
+  height: 3rem;
+  border-radius: 6px;
+  margin-bottom: 2rem;
+}
+.icon {
+  margin: 1rem;
+}
+input {
+  width: 21rem;
+  height: 3rem;
+  background-color: #232129;
+  border: none;
+  border-radius: 6px;
+ 
+}
+input::placeholder {
+  color: #666360
+}
